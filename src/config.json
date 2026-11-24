@@ -32,6 +32,8 @@
   "CLOCK_PORT": "clk",
 
   "//": "Configuration docs: https://librelane.readthedocs.io/en/latest/reference/configuration.html",
+  "SYNTH_ABC_DFF": 1,
+  "MAX_FANOUT_CONSTRAINT": 11,
 
   "//": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
   "//": "!!! DO NOT CHANGE ANYTHING BELOW THIS POINT !!!",
